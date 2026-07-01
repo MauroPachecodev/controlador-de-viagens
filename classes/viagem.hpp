@@ -1,3 +1,4 @@
+#pragma once
 #include "cidade.hpp"
 #include "passageiro.hpp"
 #include "transporte.hpp"
